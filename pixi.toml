@@ -1,5 +1,4 @@
 [project]
-authors = ["Edvards Zakovskis <edvards.zakovskis@giraff360.com>"]
 channels = ["nvidia/label/cuda-11.8.0", "pytorch", "conda-forge"]
 name = "flod"
 platforms = ["linux-64"]
